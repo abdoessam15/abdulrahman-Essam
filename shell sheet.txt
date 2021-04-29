@@ -38,7 +38,7 @@ root@ubuntu:/home/task/abdo1# cat > file3.txt
 root@ubuntu:/home/task/abdo1# cat file3.txt
 root@ubuntu:/home/task/abdo1# ls
 file1.txt  file2.txt  file3.txt
-root@ubuntu:/home/task/abdo1# cp file1.txt /home/task/ahmed2
+root@ubuntu:/home/task/abdo1# cp file1.txt /home/task/abdo2
 root@ubuntu:/home/task/abdo1# cd ../
 root@ubuntu:/home/task# cd abdo2
 root@ubuntu:/home/task/abdo2# ls
